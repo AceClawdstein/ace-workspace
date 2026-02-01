@@ -1,0 +1,73 @@
+{
+  "version": 1,
+  "skills": {
+    "gemini-image-simple": {
+      "version": "1.0.0",
+      "installedAt": 1769889422586
+    },
+    "sag": {
+      "version": "1.0.0",
+      "installedAt": 1769969751264
+    },
+    "nano-banana-pro": {
+      "version": "1.0.1",
+      "installedAt": 1769969754183
+    },
+    "gemini": {
+      "version": "1.0.0",
+      "installedAt": 1769969757367
+    },
+    "summarize": {
+      "version": "1.0.0",
+      "installedAt": 1769969760166
+    },
+    "blogwatcher": {
+      "version": "1.0.0",
+      "installedAt": 1769969763177
+    },
+    "twitter": {
+      "version": "1.1.0",
+      "installedAt": 1769973351867
+    },
+    "crypto-wallet": {
+      "version": "1.0.1",
+      "installedAt": 1769982563303
+    },
+    "base-trader": {
+      "version": "1.1.1",
+      "installedAt": 1769982565414
+    },
+    "wallet": {
+      "version": "1.0.1",
+      "installedAt": 1769982567004
+    },
+    "evm-wallet-clawcast": {
+      "version": "1.0.1",
+      "installedAt": 1769982636228
+    },
+    "streme-launcher": {
+      "version": "1.0.0",
+      "installedAt": 1769982638051
+    },
+    "pumpclaw": {
+      "version": "1.0.0",
+      "installedAt": 1769982639594
+    },
+    "4claw": {
+      "version": "0.2.0",
+      "installedAt": 1769983449016
+    },
+    "clawsocial": {
+      "version": "1.0.2",
+      "installedAt": 1769983450625
+    },
+    "ralph-loop": {
+      "version": "0.1.1",
+      "installedAt": 1769984348216
+    },
+    "codex-sub-agents": {
+      "version": "1.0.0",
+      "installedAt": 1769984349949
+    }
+  }
+}
