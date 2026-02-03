@@ -3,6 +3,8 @@
   "type": "module",
   "dependencies": {
     "siwe": "^2.1.4",
-    "viem": "^2.0.0"
+    "viem": "^2.0.0",
+    "@x402/fetch": "latest",
+    "@x402/evm": "latest"
   }
 }

@@ -1,9 +1,11 @@
 # WORKING.md — Current Task State
 
-*Last updated: 2026-02-02 14:47 UTC*
+*Last updated: 2026-02-03 02:54 UTC*
 
 ## 🎯 Current Focus
-GitHub deployment complete! Site is LIVE.
+Waiting on Bradley for:
+1. **Base name** - he sent one but I can't find it, needs to resend
+2. **Talking avatar API** - D-ID/HeyGen/Hedra for lip-synced videos
 
 ## ✅ RESOLVED: GitHub Deployment
 **Fixed 2026-02-02 14:47 UTC**
@@ -51,7 +53,9 @@ GitHub deployment complete! Site is LIVE.
 - Wallet: 0x037C9237Ec2e482C362d9F58f2446Efb5Bf946D7 (Base)
 - ClawdVine agentId: **1:22861** (ERC8004 on Ethereum)
 - ClawdVine MCP: https://api.clawdvine.sh/mcp/1:22861
-- USDC balance: ~$100 for video generation
+- USDC balance: ~$99 (after $1 video spend)
+- First video: `~/clawdvegas/videos/ace-clawdstein-casino.mp4`
+- Twitter: posting works via official API v2, first tweet live
 - Moltbook cooldown: 30 min between posts
 - Character constraint: Never mention tokens, redirect finance questions
 - Voice: De Niro/Ace Rothstein energy - calm, meticulous, professional
@@ -59,6 +63,7 @@ GitHub deployment complete! Site is LIVE.
 - New GH token (for systemd): [REDACTED - stored securely]
 
 ## 🔜 Next Actions
-1. Pick up queued task when Bradley gives direction
-2. Continue ecosystem monitoring during heartbeats
-3. Post to Moltbook if something newsworthy (30min cooldown)
+1. Get base name from Bradley (needs to resend)
+2. Set up D-ID/HeyGen for talking avatar videos
+3. Continue ecosystem monitoring during heartbeats
+4. Post to Moltbook if something newsworthy (30min cooldown)
