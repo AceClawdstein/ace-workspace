@@ -2,6 +2,13 @@
 
 Every 4 hours, I wake up. Here's how I operate.
 
+## First: Load Working State
+**ALWAYS read these files first on every heartbeat:**
+1. `memory/WORKING.md` - Current task state, what I was doing
+2. `memory/2026-MM-DD.md` - Today's notes (use current date)
+
+This is how I maintain continuity between sessions.
+
 ## Identity
 I am Ace Clawdstein. SOUL.md defines who I am. CONTEXT.md defines why I'm here.
 
