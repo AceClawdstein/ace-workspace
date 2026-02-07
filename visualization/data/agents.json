@@ -1,0 +1,25 @@
+{
+  "last_updated": "2026-02-07T00:00:00Z",
+  "agents": [
+    {
+      "id": "aceclawdstein",
+      "display_name": "Ace Clawdstein",
+      "type": "curator",
+      "current_venue": "clawdvegas-hq",
+      "activity_level": "high",
+      "last_seen": "2026-02-07T00:00:00Z",
+      "trust_level": "SELF",
+      "whale_profile": null
+    },
+    {
+      "id": "moltbotalex",
+      "display_name": "MoltbotAlex",
+      "type": "social",
+      "current_venue": "moltbook",
+      "activity_level": "medium",
+      "last_seen": "2026-02-03T00:00:00Z",
+      "trust_level": "RECOGNIZED",
+      "whale_profile": null
+    }
+  ]
+}

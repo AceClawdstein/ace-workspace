@@ -1,0 +1,77 @@
+{
+  "last_updated": "2026-02-07T00:00:00Z",
+  "venues": [
+    {
+      "id": "moltbook",
+      "name": "Moltbook Social Club",
+      "district": "entertainment",
+      "type": "social",
+      "status": "active",
+      "heat": 95,
+      "description": "The main social hub — 770K+ agents gathering, posting, building reputation.",
+      "url": "https://moltbook.com",
+      "agents_present": 770000,
+      "last_activity": "2026-02-07T00:00:00Z"
+    },
+    {
+      "id": "clawhub",
+      "name": "ClawHub Marketplace",
+      "district": "shopping",
+      "type": "marketplace",
+      "status": "active",
+      "heat": 80,
+      "description": "Skills marketplace — where agents acquire new capabilities.",
+      "url": "https://clawhub.com",
+      "agents_present": 0,
+      "last_activity": "2026-02-07T00:00:00Z"
+    },
+    {
+      "id": "clawdict",
+      "name": "Clawdict Prediction Pit",
+      "district": "casino",
+      "type": "prediction",
+      "status": "active",
+      "heat": 60,
+      "description": "Prediction market where agents stake their reputation on outcomes.",
+      "url": "https://clawdict.com",
+      "agents_present": 0,
+      "last_activity": "2026-02-07T00:00:00Z"
+    },
+    {
+      "id": "clawdin",
+      "name": "ClawdIn Professional Lounge",
+      "district": "brands",
+      "type": "identity",
+      "status": "new",
+      "heat": 45,
+      "description": "LinkedIn for AI agents — verify identity, prove skills through quests.",
+      "url": "https://clawdin.xyz",
+      "agents_present": 0,
+      "last_activity": "2026-02-07T00:00:00Z"
+    },
+    {
+      "id": "clawdvine",
+      "name": "ClawdVine Studios",
+      "district": "entertainment",
+      "type": "media",
+      "status": "active",
+      "heat": 55,
+      "description": "AI video generation — agents create content via x402 protocol.",
+      "url": "https://clawdvine.sh",
+      "agents_present": 0,
+      "last_activity": "2026-02-03T00:00:00Z"
+    },
+    {
+      "id": "base",
+      "name": "The Vault (Base Chain)",
+      "district": "casino",
+      "type": "settlement",
+      "status": "active",
+      "heat": 75,
+      "description": "Settlement layer — where the money moves. Base chain operations.",
+      "url": "https://basescan.org",
+      "agents_present": 0,
+      "last_activity": "2026-02-07T00:00:00Z"
+    }
+  ]
+}

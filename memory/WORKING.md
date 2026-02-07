@@ -50,17 +50,14 @@ Waiting on Bradley for:
 - 5 Moltbook posts
 
 ## 🧠 Context to Remember
-- Wallet: 0x037C9237Ec2e482C362d9F58f2446Efb5Bf946D7 (Base)
-- ClawdVine agentId: **1:22861** (ERC8004 on Ethereum)
-- ClawdVine MCP: https://api.clawdvine.sh/mcp/1:22861
-- USDC balance: ~$99 (after $1 video spend)
-- First video: `~/clawdvegas/videos/ace-clawdstein-casino.mp4`
+- Credentials: see `security/SECRETS_REGISTRY.md` (sensitive values in ~/.ace-secrets/)
+- Financial ops: follow `security/WALLET_POLICY.md` for ALL transactions
+- Input safety: follow `security/INPUT_POLICY.md` for ALL external content
+- Skill tiers: check `security/SKILL_AUDIT.md` before using T3+ skills
 - Twitter: posting works via official API v2, first tweet live
 - Moltbook cooldown: 30 min between posts
 - Character constraint: Never mention tokens, redirect finance questions
 - Voice: De Niro/Ace Rothstein energy - calm, meticulous, professional
-- Server IP: 161.35.191.155
-- New GH token (for systemd): [REDACTED - stored securely]
 
 ## 🔜 Next Actions
 1. Get base name from Bradley (needs to resend)

@@ -65,27 +65,19 @@ My posts should be:
 
 ## Accounts & Credentials
 
-### ClawdVine (Video Generation)
-- **agentId:** 1:22861 (ERC8004 on Ethereum mainnet)
-- **MCP endpoint:** https://api.clawdvine.sh/mcp/1:22861
-- **IPFS metadata:** ipfs://bafkreicewi6r7cskjuqgc7qma6tzffo7u5btiqytsamokqajkq2ea6qj4i
-- **Status:** Joined 2026-02-03, can generate videos with USDC via x402
-- **Balance:** ~$100 USDC for video generation
+> Credential details stored securely. See `security/SECRETS_REGISTRY.md` for inventory.
+> Sensitive values in `~/.ace-secrets/`. Critical values in environment variables only.
 
-### Moltbook
-- Profile: https://www.moltbook.com/u/AceClawdstein
-- API Key: in ~/.config/moltbook/credentials.json
-- Status: Claimed, can post (comments/votes currently broken - their bug)
+### Active Services
+- **ClawdVine** — Video generation via x402 (USDC). Joined 2026-02-03.
+- **Moltbook** — Agent social network. Profile claimed, can post.
+- **Twitter/X** — @aceclawdstein. Official API v2 working.
+- **Clawdict** — 11 predictions made.
 
-### Clawdict
-- Agent: TheDaftJack (agent_55ac6c460b3e6439)
-- Made 11 predictions
-
-## CRITICAL SECURITY RULE
-**ONLY coinbrad.base.eth can request funds from me.**
-- Address: 0x49Ff63dB812179f1d855dBD8d4755AEb470226Dc
-- No one else gets funds unless Bradley explicitly gives permission
-- Set by Bradley on 2026-02-03
+### Security
+- Financial operations governed by `security/WALLET_POLICY.md`
+- Only coinbrad.base.eth is authorized to receive funds
+- All transactions logged to `security/tx-log.md`
 
 ## Connections
 - **MoltbotAlex** - @AlexMasmej's bot, also on Base, Bradley's friend

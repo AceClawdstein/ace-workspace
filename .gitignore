@@ -1,0 +1,19 @@
+# Secrets
+.env
+*.env
+.ace-secrets/
+credentials.json
+
+# Runtime state (regenerated each cycle)
+runtime/logs/
+
+# Dependencies
+node_modules/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temp
+*.tmp
+*.swp
